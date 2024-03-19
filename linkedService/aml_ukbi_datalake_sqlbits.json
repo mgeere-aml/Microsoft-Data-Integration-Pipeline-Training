@@ -1,0 +1,10 @@
+{
+	"name": "aml_ukbi_datalake_sqlbits",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://mgsqlbits2024.dfs.core.windows.net/"
+		}
+	}
+}
