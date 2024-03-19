@@ -1,0 +1,9 @@
+{
+	"name": "crbdf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a49d35c-563e-4c2a-b07c-1eced148b8fb",
+		"tenantId": "91084a90-63d0-4cee-b3d8-0fa8efc97b96"
+	}
+}
